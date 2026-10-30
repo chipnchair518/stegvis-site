@@ -1,20 +1,20 @@
 /* Stegvis service worker.
  * - HTML pages and data/index.json: network first, cache as fallback (offline).
  * - Guide data, parts and built assets: cache first once fetched, so an opened guide works offline.
- * - Kill switch: if <BASE>sw-off answers 200, unregister and delete every Stegvis cache.
+ * - Kill switch: if <BASE>sw-state.json says {"off": true}, unregister and delete every Stegvis cache.
  * scripts/prerender.mjs stamps the build version and the asset list into this file.
  */
-const VERSION = '2026-10-30-d79e8055b8';
-const PRECACHE = ["assets/Guide-DHNr4qTw.js", "assets/Print-Bjs_64uG.js", "assets/index-C9aQEFYL.js", "assets/index-CXuJNJJH.css", "assets/stage-Bp0IiNAl.js"];
+const VERSION = '2026-10-30-2d336b9dcb';
+const PRECACHE = ["assets/Guide-DkneBnsy.js", "assets/Print-BOux8ub6.js", "assets/index-CXuJNJJH.css", "assets/index-CuSbnDDf.js", "assets/stage-DmyMNjVQ.js"];
 const BASE = new URL('./', self.location.href).pathname;
 const PREFIX = 'stegvis-';
 const CACHE = PREFIX + VERSION;
-const KILL_URL = BASE + 'sw-off';
+const KILL_URL = BASE + 'sw-state.json';
 
 async function killSwitch() {
   try {
     const res = await fetch(KILL_URL, { cache: 'no-store' });
-    if (res.status !== 200) return false;
+    if (!res.ok || (await res.json()).off !== true) return false;
   } catch {
     return false; // offline: keep working
   }
@@ -78,7 +78,7 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin || !url.pathname.startsWith(BASE)) return;
   const path = url.pathname.slice(BASE.length);
-  if (path === 'sw-off' || path === 'sw.js') return; // always straight to the network
+  if (path === 'sw-state.json' || path === 'sw.js') return; // always straight to the network
 
   if (req.mode === 'navigate') {
     // Each page load also checks the kill switch.

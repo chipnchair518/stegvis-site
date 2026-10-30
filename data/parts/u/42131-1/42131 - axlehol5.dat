@@ -1,0 +1,63 @@
+0 axlehol5
+0 Name: 42131 - axlehol5.dat
+0 Author: James Jessiman
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2000-04-23 [sbliss] Added conditional edges along outermost diameters
+0 !HISTORY 2000-05-07 [PTadmin] Official Update 2000-01
+0 !HISTORY 2002-11-08 [OrionP] Adjusted fit and precision
+0 !HISTORY 2002-11-30 [PTadmin] Official Update 2002-05
+0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
+0 !HISTORY 2005-05-15 [guyvivan] Use 1-8chrd.dat primitive and made BFC'ed CCW
+0 !HISTORY 2005-12-28 [PTadmin] Official Update 2005-01
+0 !HISTORY 2007-06-24 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2021-03-25 [Sirio] Added adapter rings and rounded to four decimals
+0 !HISTORY 2021-06-20 [mkennedy] Rearenaged faces to reduce polygons
+
+0 // Adapter rings
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 u/42131-1/42131 - 3-16ering.dat
+1 16 0 0 0 -6 0 0 0 1 0 0 0 6 u/42131-1/42131 - 3-16ering.dat
+1 16 0 0 0 -6 0 0 0 1 0 0 0 -6 u/42131-1/42131 - 3-16ering.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 -6 u/42131-1/42131 - 3-16ering.dat
+1 16 0 1 0 6 0 0 0 -1 0 0 0 6 u/42131-1/42131 - 3-16ering.dat
+1 16 0 1 0 -6 0 0 0 -1 0 0 0 6 u/42131-1/42131 - 3-16ering.dat
+1 16 0 1 0 -6 0 0 0 -1 0 0 0 -6 u/42131-1/42131 - 3-16ering.dat
+1 16 0 1 0 6 0 0 0 -1 0 0 0 -6 u/42131-1/42131 - 3-16ering.dat
+0 // Primitives
+1 16 3.80115 0.5 3.80115 0 -1.80115 0 0.5 0 0 0 0 -1.80115 box2-7.dat
+1 16 -3.80115 0.5 3.80115 0 1.80115 0 0.5 0 0 0 0 -1.80115 box2-7.dat
+1 16 -3.80115 0.5 -3.80115 0 1.80115 0 0.5 0 0 0 0 1.80115 box2-7.dat
+1 16 3.80115 0.5 -3.80115 0 -1.80115 0 0.5 0 0 0 0 1.80115 box2-7.dat
+1 16 5.80115 0.5 1 0 0 -0.19885 -0.5 0 0 0 1 1 rect3.dat
+1 16 -5.80115 0.5 1 0 0 0.19885 -0.5 0 0 0 1 1 rect3.dat
+1 16 -5.80115 0.5 -1 0 0 0.19885 -0.5 0 0 0 -1 -1 rect3.dat
+1 16 5.80115 0.5 -1 0 0 -0.19885 -0.5 0 0 0 -1 -1 rect3.dat
+0 // Faces
+4 16 2 0 2 5.6023 0 2 5.5434 0 2.2962 4.2426 0 4.2426
+4 16 2 0 2 4.2426 0 4.2426 2.2962 0 5.5434 2 0 5.6023
+4 16 -2 0 2 -2 0 5.6023 -2.2962 0 5.5434 -4.2426 0 4.2426
+4 16 -2 0 2 -4.2426 0 4.2426 -5.5434 0 2.2962 -5.6023 0 2
+4 16 -2 0 -2 -5.6023 0 -2 -5.5434 0 -2.2962 -4.2426 0 -4.2426
+4 16 -2 0 -2 -4.2426 0 -4.2426 -2.2962 0 -5.5434 -2 0 -5.6023
+4 16 2 0 -2 2 0 -5.6023 2.2962 0 -5.5434 4.2426 0 -4.2426
+4 16 2 0 -2 4.2426 0 -4.2426 5.5434 0 -2.2962 5.6023 0 -2
+4 16 4.2426 1 4.2426 5.5434 1 2.2962 5.6023 1 2 2 1 2
+4 16 2 1 5.6023 2.2962 1 5.5434 4.2426 1 4.2426 2 1 2
+4 16 -4.2426 1 4.2426 -2.2962 1 5.5434 -2 1 5.6023 -2 1 2
+4 16 -5.6023 1 2 -5.5434 1 2.2962 -4.2426 1 4.2426 -2 1 2
+4 16 -4.2426 1 -4.2426 -5.5434 1 -2.2962 -5.6023 1 -2 -2 1 -2
+4 16 -2 1 -5.6023 -2.2962 1 -5.5434 -4.2426 1 -4.2426 -2 1 -2
+4 16 4.2426 1 -4.2426 2.2962 1 -5.5434 2 1 -5.6023 2 1 -2
+4 16 5.6023 1 -2 5.5434 1 -2.2962 4.2426 1 -4.2426 2 1 -2
+0 // Conditional lines
+5 24 6 0 0 6 1 0 5.6023 0 2 5.6023 0 -2
+5 24 -6 0 0 -6 1 0 -5.6023 0 -2 -5.6023 0 2
+0 LDCad info for "Technic Axle Hole Open Two Opposite Sides"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_INCL [ref=axlehole.dat]

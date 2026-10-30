@@ -1,0 +1,56 @@
+0 Click Lock Hinge Half Dual Finger 7-Position
+0 Name: clh10.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Primitive UPDATE 2026-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Requires 2 halves rotated 180 degrees apart on Z-axis.
+0 !HELP Placement on side of bricks; rotate pair accordingly,
+0 !HELP place 10 Ldu below top surface and 6 Ldu off side surface,
+0 !HELP fill as needed - box4o4a.dat's recommended.
+0 !HELP Placement off side of plates and windscreens; rotate pair accordingly,
+0 !HELP place center origin 2 Ldu below top surface and 6 Ldu off side surface,
+0 !HELP fill as needed.
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2008-07-03 [Philo] Rewrite from clh11 for homogeneity with other clh primitives
+0 !HISTORY 2010-12-31 [PTadmin] Official Update 2010-03
+0 !HISTORY 2012-02-16 [Philo] Changed to CCW
+0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
+0 !HISTORY 2022-10-15 [MagFors] adapted to lo-res, used new finger primitive
+0 !HISTORY 2026-09-30 [OrionP] Official Update 2026-09
+
+1 16 4 0 4 0 -1 0 4 0 0 0 0 4 4-4edge.dat
+1 16 4 0 4 0 -1 0 1 0 0 0 0 1 4-4con3.dat
+1 16 3 0 4 0 -1 0 3 0 0 0 0 3 4-4edge.dat
+1 16 3 0 4 0 1 0 3 0 0 0 0 3 4-4disc.dat
+1 16 6.25 0 0 1.125 0 0 0 1 0 0 0 1 clh-base.dat
+
+1 16 8.5 0 4 4.5 0 0 0 1 0 0 0 1 clh-finger.dat
+1 16 8.5 0 4 4.5 0 0 0 .9239 .3827 0 -.3827 .9239 clh-finger.dat
+1 16 8.5 0 4 4.5 0 0 0 .7071 .7071 0 -.7071 .7071 clh-finger.dat
+1 16 8.5 0 4 4.5 0 0 0 0 1 0 -1 0 clh-finger.dat
+1 16 8.5 0 4 4.5 0 0 0 -.7071 .7071 0 -.7071 -.7071 clh-finger.dat
+1 16 8.5 0 4 4.5 0 0 0 -.9239 .3827 0 -.3827 -.9239 clh-finger.dat
+1 16 8.5 0 4 4.5 0 0 0 -1 0 0 0 -1 clh-finger.dat
+
+2 24 8.5 1.0046 9.0503 8.5 2.0092 8.8505
+2 24 4 2.0092 8.8505 4 1.0046 9.0503
+4 16 8.5 2.0092 8.8505 4 2.0092 8.8505 4 1.0046 9.0503 8.5 1.0046 9.0503
+5 24 8.5 2.0092 8.8505 4 2.0092 8.8505 8.5 1.0046 9.0503 8.5 2.8608 8.2815
+2 24 8.5 2.0092 8.8505 8.5 2.8608 8.2815
+2 24 4 2.8608 8.2815 4 2.0092 8.8505
+4 16 8.5 2.8608 8.2815 4 2.8608 8.2815 4 2.0092 8.8505 8.5 2.0092 8.8505
+3 16 4 2.0092 8.8505 4 2.8608 8.2815 4 1.0046 9.0503
+3 16 8.5 2.8608 8.2815 8.5 2.0092 8.8505 8.5 1.0046 9.0503
+
+2 24 4 -2.0092 8.8505 4 -2.8608 8.2815
+2 24 8.5 -2.8608 8.2815 8.5 -2.0092 8.8505
+4 16 4 -2.8608 8.2815 8.5 -2.8608 8.2815 8.5 -2.0092 8.8505 4 -2.0092 8.8505
+5 24 8.5 -2.0092 8.8505 4 -2.0092 8.8505 8.5 -2.8608 8.2815 8.5 -1.0046 9.0503
+2 24 4 -1.0046 9.0503 4 -2.0092 8.8505
+2 24 8.5 -2.0092 8.8505 8.5 -1.0046 9.0503
+4 16 4 -2.0092 8.8505 8.5 -2.0092 8.8505 8.5 -1.0046 9.0503 4 -1.0046 9.0503
+3 16 4 -2.0092 8.8505 4 -1.0046 9.0503 4 -2.8608 8.2815
+3 16 8.5 -1.0046 9.0503 8.5 -2.0092 8.8505 8.5 -2.8608 8.2815
