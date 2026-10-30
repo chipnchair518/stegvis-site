@@ -1,0 +1,14 @@
+0 76959
+0 Name: 10359 - 76959.dat
+0 Author: Florent Faramond [Makou]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Brick
+
+0 !HISTORY 2023-03-19 [Makou] Initial version
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u/10359-1/s/10359 - 76959s01.dat
+4 16 20 24 -10 20 4 -30 -20 4 -30 -20 24 -10
