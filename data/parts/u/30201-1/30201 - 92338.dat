@@ -1,0 +1,13 @@
+0 Chain 5L
+0 Name: 30201 - 92338.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 30104k01.dat
+1 16 0 1.5 19.5 0 0 1 -1 0 0 0 -1 0 30104k02.dat
+1 16 0 1.5 33.5 -1 0 0 0 0 -1 0 -1 0 30104k02.dat
+1 16 0 1.5 47.5 0 0 1 -1 0 0 0 -1 0 30104k02.dat
+1 16 0 1.5 61.5 -1 0 0 0 0 -1 0 -1 0 30104k02.dat
+1 16 0 1.5 75.5 0 0 1 -1 0 0 0 -1 0 30104k02.dat
+1 16 0 0 104 -1 0 0 0 1 0 0 0 -1 30104k01.dat

@@ -1,0 +1,8 @@
+0 Sticker 10227 B-Wing Red Dot
+0 Name: 10227 - 10227_b_wing_reddot-2.dat
+0 !LDRAW_ORG Unofficial_Part
+0 Author: Roland Dahl [RolandD]
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 25 0 0 0 40 0 0 0 -0.25 0 0 0 40 48\4-4cylc2.dat
+1 25 0 -0.25 0 40 0 0 0 1 0 0 0 40 48\4-4disc.dat

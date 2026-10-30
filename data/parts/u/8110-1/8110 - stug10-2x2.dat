@@ -1,0 +1,17 @@
+0 stug10-2x2
+0 Name: 8110 - stug10-2x2.dat
+0 Author: Tomas Kralicek [RabbiT_CZ]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // activate next lines to add logos on studs
+0 // 1 16 10 -4 10 1 0 0 0 1 0 0 0 1 logo5.dat
+0 // 1 16 -10 -4 10 1 0 0 0 1 0 0 0 1 logo5.dat
+0 // 1 16 -10 -4 -10 1 0 0 0 1 0 0 0 1 logo5.dat
+0 // 1 16 10 -4 -10 1 0 0 0 1 0 0 0 1 logo5.dat
+1 16 10 0 10 1 0 0 0 1 0 0 0 1 u/8110-1/8110 - stud10.dat
+1 16 -10 0 10 0 0 -1 0 1 0 1 0 0 u/8110-1/8110 - stud10.dat
+1 16 10 0 -10 0 0 1 0 1 0 -1 0 0 u/8110-1/8110 - stud10.dat
+1 16 -10 0 -10 -1 0 0 0 1 0 0 0 -1 u/8110-1/8110 - stud10.dat

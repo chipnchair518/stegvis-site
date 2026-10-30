@@ -1,0 +1,26 @@
+0 4728
+0 Name: 3683 - 4728.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2012-10-26 [MMR1988] BFC'd, subfiled and a bit cosmetic
+0 !HISTORY 2012-12-28 [PTadmin] Official Update 2012-03
+0 !HISTORY 2017-05-22 [SLS] Rewrote to use subpart
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u/3683-1/s/3683 - 4728s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 stud2a.dat
+1 16 0 0 0 6 0 0 0 1 0 0 0 6 4-4edge.dat
+1 16 0 4 0 4 0 0 0 1 0 0 0 4 4-4edge.dat
+1 16 0 4 0 2 0 0 0 -1 0 0 0 2 4-4ring2.dat
+0 BFC INVERTNEXT
+1 16 0 0 0 4 0 0 0 4 0 0 0 4 4-4cyli.dat
+0 LDCad info for "Plant Flower  2 x  2"
+0 Author: Milan Vancura [MilanV]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 20   R 4 8]

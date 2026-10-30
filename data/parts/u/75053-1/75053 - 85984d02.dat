@@ -1,0 +1,16 @@
+0 85984d02
+0 Name: 75053 - 85984d02.dat
+0 Author: Evert Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 75053, Ghost, Star Wars
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 85984.dat
+0 // Sticker rotation 30.963757
+1 72 0 -10.084 0.14 1 0 0 0 0.857493 -0.514496 0 0.514496 0.857493 u/75053-1/75053 - 6074270a.dat
+0

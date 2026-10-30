@@ -1,0 +1,32 @@
+0 String 02
+0 Name: 42029 - string 02.dat
+0 Author: Marc Giraudet [Mad_Marc]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !KEYWORDS flexible, string, rope
+0 !LDCAD CONTENT [type=path] [addFallBack=default] [looped=false] [displayKind=mm] [curveStep=0] [displayLenCor=0]
+
+0 !LDCAD PATH_POINT [type=bezier] [posOri=0 0 0 0 -1 0 1 0 0 0 0 1] [prevCPDist=25] [nextCPDist=7] [cirR=25] [cirDir=xyCW] [prevYRoll=0] [nextYRoll=0]
+0 !LDCAD PATH_POINT [type=bezier] [posOri=0 8 0 0 1 0 -1 0 0 0 0 1] [prevCPDist=7] [nextCPDist=25] [cirR=25] [cirDir=xyCW] [prevYRoll=0] [nextYRoll=0]
+
+0 !LDCAD PATH_SKIN [donCol=16] [donOri=1 0 0 0 1 0 0 0 1] [donPart=ldcLQRopeSeg.dat] [donYSize=400%] [donCen=absCen] [donCenYOfs=0] [donFinScale=segMerge] [donPlace=refsStat] [donYAlign=0] [donInline=true] [segSize=75%] [segSizeTol=5%] [segsCnt=0] [segsGrp=0] [segsMaxMerge=0] [segsMrgAng=0] [segsMrgRollAng=0] [segsEdgeDelKind=keepFirstLeft]
+
+0 !LDCAD GENERATED [generator=LDCad 1.6c]
+0 //This is the fallback LDraw content for above PATH configuration.
+0 // Do not edit, any changes will be lost upon regeneration.
+0 // The path is approx 5.88 mm (14.71) and exists out of 5 segments.
+
+0 //Some general hints about the document.
+0 UNOFFICIAL PART
+0 BFC CERTIFY CCW
+
+0 //Some of this content has been generated from other LDraw files, many thanks to all involved.
+0 // Credits for "ldcLQRopeSeg.dat":
+0 // Author: LDCad
+
+0 //Segments
+1 16 3.556492 0.808063 0 -0.332341 -3.843239 0 1.46272 -0.873214 0 0 0 1.5 4-4cyli.dat
+1 16 5.456755 3.335274 0 -1.146502 -2.541359 0 0.96723 -3.012388 0 0 0 1.5 4-4cyli.dat
+1 16 4.742488 6.27785 0 -1.491481 0.419451 0 -0.159641 -3.918807 0 0 0 1.5 4-4cyli.dat
+1 16 2.194445 7.885169 0 -0.957804 3.03311 0 -1.154388 -2.516591 0 0 0 1.5 4-4cyli.dat
+1 16 -0.629914 8.112496 0 -0.263711 3.879806 0 -1.476637 -0.69289 0 0 0 1.5 4-4cyli.dat

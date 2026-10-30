@@ -1,0 +1,15 @@
+0 Boat Rigging  4 x 28 Rectangular, bended
+0 Name: 10179 - 47996_bended_01.dat
+0 Author: original 47996 by William Howard [WilliamH], modified by Papacharly
+0 !LDRAW_ORG Subpart UPDATE 2011-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+1 16 30 0 51 -1 0 0 0 1 0 0 0 -1 s\47996s01.dat
+1 16 -30 0 51 1 0 0 0 -1 0 0 0 -1 s\47996s01.dat
+1 16 0 0 51 -1 0 0 0 1 0 0 0 -1 s\6057s04.dat
+1 16 -30 0 10 4 0 0 0 0 4 0 1 0 4-4cyli.dat
+1 16 0 0 0 4 0 0 0 0 4 0 21 0 4-4cyli.dat
+1 16 30 0 10 4 0 0 0 0 4 0 1 0 4-4cyli.dat
+1 16 0 0 -30 1 0 0 0 1 0 0 0 1 s\6057s04.dat
+1 16 -30 0 -30 1 0 0 0 1 0 0 0 1 s\47996s01.dat
+1 16 30 0 -30 -1 0 0 0 -1 0 0 0 1 s\47996s01.dat

@@ -1,0 +1,15 @@
+0 15068d03
+0 Name: 75053 - 15068d03.dat
+0 Author: Evert Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 75053, Star Wars, 15068pb015R
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 15068.dat
+1 191 -20 0 0 1 0 0 0 1 0 0 0 1 u/75053-1/75053 - 6074270dc01.dat
+0

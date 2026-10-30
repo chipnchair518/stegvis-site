@@ -1,0 +1,21 @@
+0 4865b
+0 Name: 3315 - 4865b.dat
+0 Author: Rolf Osterthun [Rolf]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
+0 !HISTORY 2016-02-16 [Darats] Subparted for Patterns
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u/3315-1/s/3315 - 4865bs01.dat
+1 16 -18 2 10 0 0 -2 -2 0 0 0 -1 0 1-4chrd.dat
+1 16 18 2 10 2 0 0 0 0 -2 0 -1 0 1-4chrd.dat
+4 16 20 2 10 20 24 10 -20 24 10 -20 2 10
+4 16 -18 0 10 18 0 10 20 2 10 -20 2 10
+0 LDCad info for "Panel  1 x  2 x  1 with Rounded Corners"
+0 Author: Roland Melkert [roland]
+0 !LICENSE Free for non-commercial use.
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [grid=C 2 1 20 0]
