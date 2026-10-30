@@ -1,0 +1,21 @@
+0 Titanic - 6.46.3_subPart1
+0 Name: 10294 - titanic - 6.46.3_subpart1.dat
+0 Author: LDCad
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 !LDCAD GENERATED [generator=LDCad 1.6d] [master=10294 - Titanic - 6.46.3.ldr]
+0 //This is additional fallback LDraw content for the "10294 - Titanic - 6.46.3.ldr" PATH configuration.
+0 // Do not edit, any changes will be lost upon regeneration.
+0 // The path is approx 320.02 mm (800.04) and exists out of 1 segments.
+
+0 //Some general hints about the document.
+0 UNOFFICIAL PART
+0 BFC CERTIFY CCW
+
+0 //Some of this content has been generated from other LDraw files, many thanks to all involved.
+0 // Credits for "10294 - Titanic - ldcLQRopeSeg.dat":
+0 //  Author: LDCad
+
+0 //Segments
+1 16 810.50007 -5.005001 0 0 -801.000141 0.014999 0 8.010001 1.499925 -1.5 0 0 4-4cyli.dat
