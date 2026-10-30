@@ -1,0 +1,11 @@
+0 1-8ring35
+0 Name: 42114 - 1-8ring35.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Primitive
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+4 16 36 0 0 33.260399 0 13.7772 32.336498 0 13.3945 35 0 0
+4 16 33.260399 0 13.7772 25.455601 0 25.455601 24.748501 0 24.748501 32.336498 0 13.3945
+0 // Build by Primitive Generator 2

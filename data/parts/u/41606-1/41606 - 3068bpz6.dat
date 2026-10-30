@@ -1,0 +1,13 @@
+0 3068bpz6
+0 Name: 41606 - 3068bpz6.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 41606, BrickLink 3068bpb1149, BrickHeadz, Star-Lord,  Avengers, Infinity War, Face Mask
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u/41606-1/41606 - 3068bpz6s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 u/41606-1/41606 - 3068bpz6s01.dat

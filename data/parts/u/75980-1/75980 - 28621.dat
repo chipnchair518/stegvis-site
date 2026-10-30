@@ -1,0 +1,18 @@
+0 28621
+0 Name: 75980 - 28621.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u/75980-1/75980 - s/75980 - 28621s01.dat
+1 16 0 4 0 13 0 0 0 13 0 0 0 13 4-4cyli.dat
+1 16 0 4 0 0 0 8 0 -6.4 0 8 0 0 t04o6250.dat
+1 16 0 4 0 -8 0 0 0 -6.4 0 0 0 8 t04o6250.dat
+1 16 0 17 0 0 0 -8 0 6.4 0 8 0 0 t04o6250.dat
+1 16 0 17 0 8 0 0 0 6.4 0 0 0 8 t04o6250.dat
+1 16 0 4 0 0 0 -8 0 -6.4 0 -8 0 0 t04o6250.dat
+1 16 0 4 0 8 0 0 0 -6.4 0 0 0 -8 t04o6250.dat
+1 16 0 17 0 0 0 8 0 6.4 0 -8 0 0 t04o6250.dat
+1 16 0 17 0 -8 0 0 0 6.4 0 0 0 -8 t04o6250.dat

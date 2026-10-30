@@ -1,0 +1,29 @@
+0 Slope Brick Curved  6 x  1
+0 Name: 42022.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LDRAW_ORG Part UPDATE 2026-10
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Slope
+0 !KEYWORDS Alpha Team, Brickowl 782373, Racers, rounded
+
+0 !HISTORY 2004-04-22 [PTadmin] Official Update 2004-02
+0 !HISTORY 2004-09-15 [PTadmin] Official Update 2004-03
+0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+0 !HISTORY 2008-07-07 [PTadmin] Renamed from 464
+0 !HISTORY 2009-05-02 [PTadmin] Official Update 2009-01
+0 !HISTORY 2010-01-19 [Eldar] Add BFC
+0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
+0 !HISTORY 2021-10-04 [Holly-Wood] Unmirrored subfile
+0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
+0 !HISTORY 2026-10-18 [KnightOfTarenta] Adapted Curve to match 61678.dat
+0 !HISTORY 2026-10-26 [OrionP] Official Update 2026-10
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\42022s01.dat
+
+0 // Patternable Surface
+1 16 10 149.254 -20 0 -20 0 -149.254 0 0 0 0 -159.993 48\1-12cyli.dat

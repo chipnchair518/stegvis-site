@@ -4,8 +4,8 @@
  * - Kill switch: if <BASE>sw-state.json says {"off": true}, unregister and delete every Stegvis cache.
  * scripts/prerender.mjs stamps the build version and the asset list into this file.
  */
-const VERSION = '2026-10-30-e6b7f210f2';
-const PRECACHE = ["assets/Guide-C02xlnmJ.js", "assets/Print-BpXb8slA.js", "assets/capture-Cy2OSSwX.js", "assets/index-6CSL7S6b.css", "assets/index-Dz6MLqOS.js", "assets/parts-sUXpAPoZ.js", "assets/stage-wQTVai8I.js"];
+const VERSION = '2026-10-30-34b7af216c';
+const PRECACHE = ["assets/Guide-CtLB5VCq.js", "assets/Print-BYVV5eYF.js", "assets/capture-C0sbwI1F.js", "assets/index-B8um2e6X.css", "assets/index-D8drDjGe.js", "assets/parts-sUXpAPoZ.js", "assets/stage-yvM7-IBR.js"];
 const BASE = new URL('./', self.location.href).pathname;
 const PREFIX = 'stegvis-';
 const CACHE = PREFIX + VERSION;

@@ -1,0 +1,13 @@
+0 2431pzm
+0 Name: 41604 - 2431pzm.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Set 41604, BrickLink 2431pb533, BrickHeadz, Iron Man, Avengers, Infinity War, MK50, Chest
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\2431s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 u/41604-1/41604 - 2431pzms01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 u/41604-1/41604 - 2431pzms01.dat

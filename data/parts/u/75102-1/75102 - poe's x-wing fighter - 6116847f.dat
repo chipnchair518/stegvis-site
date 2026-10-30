@@ -1,0 +1,15 @@
+0 Poe's X-Wing Fighter - 6116847f
+0 Name: 75102 - Poe's X-Wing Fighter - 6116847f.dat
+0 Author: Evert Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS 75102, Star Wars, X-Wing
+
+1 16 0 0 0 18 0 0 0 -0.25 0 0 0 18 48\4-4cylc2.dat
+1 16 0 -0.25 0 1 0 0 0 1 0 0 0 1 u/75102-1/s/75102 - poe's x-wing fighter - 6116847fs01.dat
+1 16 0 -0.25 0 -1 0 0 0 1 0 0 0 1 u/75102-1/s/75102 - poe's x-wing fighter - 6116847fs01.dat
+1 16 0 -0.25 0 -1 0 0 0 1 0 0 0 -1 u/75102-1/s/75102 - poe's x-wing fighter - 6116847fs01.dat
+1 16 0 -0.25 0 1 0 0 0 1 0 0 0 -1 u/75102-1/s/75102 - poe's x-wing fighter - 6116847fs01.dat
