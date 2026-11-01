@@ -1,1 +1,0 @@
-import{D as e,d as t}from"./index-HGGaSgxE.js";import{a as n,o as r}from"./stage-DuZKFC8I.js";var i=16118248;window.__stegvisCapture=async(a,o=640)=>{let s=await t(),c=await r({dataBase:e,slug:a,fileMap:s});return n(c,o,{jpeg:!0,background:i})};
